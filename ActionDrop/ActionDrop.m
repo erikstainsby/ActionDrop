@@ -20,7 +20,7 @@
 }
 
 - (BOOL) hasSelectorField {
-	return NO;
+	return YES;
 }
 
 @end
