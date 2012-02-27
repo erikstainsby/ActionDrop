@@ -14,13 +14,11 @@
 	
     if( nil != (self = [super initWithNibName:nibNameOrNil	bundle:nibBundleOrNil]))
     {
-		[self setName: @"Drop"];
+		[self setPluginName: @"Drop"];
     }
     return self;
 }
 
-- (BOOL) hasSelectorField {
-	return YES;
-}
+
 
 @end

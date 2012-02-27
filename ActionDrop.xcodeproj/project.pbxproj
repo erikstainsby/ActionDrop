@@ -83,10 +83,10 @@
 		03530B8D14F099C4002E9A5E /* ActionDrop */ = {
 			isa = PBXGroup;
 			children = (
-				03530B8E14F099C4002E9A5E /* Supporting Files */,
 				03530BC014F09AB4002E9A5E /* ActionDrop.h */,
 				03530BC114F09AB4002E9A5E /* ActionDrop.m */,
 				03530C3914F0A376002E9A5E /* ActionDrop.xib */,
+				03530B8E14F099C4002E9A5E /* Supporting Files */,
 			);
 			path = ActionDrop;
 			sourceTree = "<group>";
@@ -294,6 +294,7 @@
 				03530B9814F099C4002E9A5E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
